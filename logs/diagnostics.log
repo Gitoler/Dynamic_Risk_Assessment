@@ -1,0 +1,656 @@
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.128:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:14] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:15] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:15] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:19] "GET /diagnostics HTTP/1.1" 200 -
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:51] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:52] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:52] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:29:57] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.128:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:34:29] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:34:29] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:34:29] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:34:34] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:36:46] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:36:47] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:36:47] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:36:51] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:40:52] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:41:01] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:41:01] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:41:05] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:42:09] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:42:10] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:42:10] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [11/Jul/2023 16:42:14] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:08:33] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:08:33] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:08:33] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:08:38] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:11:32] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:11:33] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:11:33] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:11:37] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:12:39] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:12:39] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:12:39] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:12:43] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:15:29] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:15:30] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:15:30] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:15:34] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:19:10] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:19:11] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:19:11] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:19:15] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:20:49] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:20:49] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:20:49] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:20:54] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:21:37] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:21:37] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:21:37] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:21:41] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:22:36] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:22:37] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:22:37] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:22:40] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:24:19] "[35m[1mPOST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1[0m" 500 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:24:19] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:24:19] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:24:24] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.134.149.87:8000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:04] "POST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1" 200 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:05] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:05] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:09] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:58] "POST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1" 200 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:59] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:42:59] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [12/Jul/2023 09:43:03] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/generate_pdf_report.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/fullprocess.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/fullprocess.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:10-10
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:10-30
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-12
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-14
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-15
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-16
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-17
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-18
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-18
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Start the classification report - 2023_07_12:12-19
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/main.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/main.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:14:23] "POST /prediction?dataset_file_path=ingesteddata/finaldata.csv HTTP/1.1" 200 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:14:24] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:14:24] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:14:28] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:15:08] "POST /prediction?dataset_file_path=ingesteddata/finaldata.csv HTTP/1.1" 200 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:15:08] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:15:08] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:15:13] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - The predict endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:18:51] "POST /prediction?dataset_file_path=testdata/testdata.csv HTTP/1.1" 200 -
+root - INFO - The score endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:18:52] "GET /scoring HTTP/1.1" 200 -
+root - INFO - The stats endpoint have been call
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:18:52] "GET /summarystats HTTP/1.1" 200 -
+root - INFO - The diagnostics endpoint have been call
+root - INFO - Calculating missing data
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO - 127.0.0.1 - - [13/Jul/2023 11:18:56] "GET /diagnostics HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/fullprocess.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/training.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/training.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/training.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/scoring.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/deployment.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/ingestion.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/diagnostics.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/reporting.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+root - INFO - Calculate timing of ingestion.py
+root - INFO - Calculate timing of training.py
+root - INFO - Calculating missing data
+root - INFO - Cheking the dependencies
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/app.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/apicalls.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
+werkzeug - INFO -  * Detected change in '/Users/jumet/DE/Udacity/Dynamic_Risk_Assessment/starter-file/fullprocess.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 549-379-944
